@@ -4,7 +4,7 @@
 
  I'm **Abhinav Kumar Pandey** working at [Intellitek.ai](https://intellitek.ai/). I specialize in modern web technologies such as HTML5, CSS3, JavaScript, Angular, Node.js, ReactJS, React Native, NestJS, TypeScript, Bootstrap, and SASS. I also have expertise in SQL, MongoDB, WebRTC, and Web Accessibility. With strong debugging skills and a passion for continuous learning, I consistently deliver high-quality projects on time. My problem-solving skills, positive mindset, and collaborative approach contribute to the success of every project.
 
-## ⚡ Technologies
+## ⚡ Technologies 
 
 These are some of the major technologies that I use or have worked on in the past:
 
